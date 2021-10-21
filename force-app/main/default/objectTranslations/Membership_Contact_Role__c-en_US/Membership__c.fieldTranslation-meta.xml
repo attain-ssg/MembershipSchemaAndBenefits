@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- The Membership record to which the Member belongs --></help>
+        <label><!-- Membership --></label>
+        <name>Membership__c</name>
+        <relationshipLabel><!-- Membership Contact Roles --></relationshipLabel>
+    </CustomFieldTranslation>

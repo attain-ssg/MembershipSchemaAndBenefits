@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- This Contact&apos;s Membership does not expire. Defaults to the expiry setting on the Membership. --></help>
+        <label><!-- Does Not Expire --></label>
+        <name>Does_Not_Expire__c</name>
+    </CustomFieldTranslation>
